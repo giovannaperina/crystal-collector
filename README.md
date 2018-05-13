@@ -18,7 +18,8 @@ Crystals Collector is a fun and interactive game for web browsers. The app is dy
 
 ---
  
- <img  ![GameView](assets/images/win.png)
+ ![GameView](assets/images/win.png)
 
  ---
+
  ![GameView](assets/images/loss.png)
